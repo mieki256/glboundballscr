@@ -6,9 +6,9 @@ Bound ball animation screensaver win32 by using OpenGL.
 Screenshots
 -----------
 
-[![glboudnballscr screenshots](http://img.youtube.com/vi/QymZRzSH6NE/0.jpg)](https://www.youtube.com/watch?v=QymZRzSH6NE)
-
 https://youtu.be/QymZRzSH6NE
+
+[![glboudnballscr screenshots](screenshots/ss_glboundball_scr_20220919.png)](https://www.youtube.com/watch?v=QymZRzSH6NE)
 
 
 Dependency
