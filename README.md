@@ -6,7 +6,9 @@ Bound ball animation screensaver win32 by using OpenGL.
 Screenshots
 -----------
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QymZRzSH6NE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![glboudnballscr screenshots](http://img.youtube.com/vi/QymZRzSH6NE/0.jpg)](https://www.youtube.com/watch?v=QymZRzSH6NE)
+
+https://youtu.be/QymZRzSH6NE
 
 
 Dependency
