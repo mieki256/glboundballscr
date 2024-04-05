@@ -29,3 +29,5 @@ BEGIN
   LTEXT "No options for this screensaver.", IDC_STATIC_TEXT, 17, 15, 150, 13
 END
 
+1 24 "glboundball.scr.manifest"
+

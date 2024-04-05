@@ -7,7 +7,10 @@ glboundball.o: glboundball.cpp
 resource.o: resource.rc resource.h icon.ico
 	windres resource.rc resource.o
 
+.PHONY: cleanall
+cleanall:
+	rm -f *.scr *.o
+
 .PHONY: clean
 clean:
-	rm -f *.scr
 	rm -f *.o
